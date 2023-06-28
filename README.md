@@ -75,3 +75,9 @@ This project is licensed under the MIT License. See the [LICENSE](https://openso
 ## Acknowledgments
 
 Special thanks to the creators of the "Crab Age Dataset" for providing the dataset and inspiring this project.
+
+
+Author: **amyrmahdy**
+
+Date: **22 June 2023**
+
